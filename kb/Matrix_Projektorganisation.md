@@ -1,89 +1,69 @@
 ---
 title: Matrix_Projektorganisation
-tags: agil klassisch
+tags: klassisch
 author: SeanTR0497
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Matrix_Projektorganisation um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Matrix Projektorganisation ist die meistbenutzte Organisationsform für Projekte innerhalb von permanenten Linienorganisationen und ist eine Zusammensetzung aus Stabs- und reiner Projektorganisation. [^1] Dabei überschneiden die temporären Projektorganisationen die Linienorganisation so, dass die Trägerorganisation und die Projekte gleichzeitig auf die Ressourcen zugreifen können, wodurch dabei ein Konfliktpotential entsteht. [^2] Diese Form wird angewendet, wenn die Projekte notwendig, aber nicht bedeutsam sind und eine ständige Teilnahme der Mitarbeiter benötigt wird. [^4]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Aufbau
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+! [Matrix Projektorganisation] (matrix-projektorganisation.jpg)
 
 
-# Aspekt 1
+Die horizontale Ebene stellt die produkt-,  region- oder projektbezogene Aufgabenbereiche dar. Diese Geschäftsbereiche können beispielsweise Produkte sein.
+Die vertikale Ebene zeigt die funktionalen Arbeitsbereichen, auch Funktionsbereiche genannt. Beispiele hierfür sind Vertrieb oder die Produktion.
+In den Schnittstellen befinden sich die einzelnen Projektteams bzw. spezifischen Abteilungen, die jeweils einem Projekt- oder Abteilungsleiter zugeordnet sind. [^9]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Akteure
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Der Abteilungsleiter beschäftigt sich mit dem disziplinarischen Weisungsrecht und den fachliche Weisungsrecht für Linienaufgaben. [^1] Dadurch besitzt er die disziplinarische Befugnis über die Zuordnung und Aufgaben der Mitarbeiter. [^4]
+Der Projektleiter bzw. Projektmanager verfügt über das fachliches Weisungsrecht, was die Projektinhalte betrifft. [^10] Dabei beansprucht er die Arbeitskraft der Teammitglieder in Abstimmung mit dem Abteilungsleiter und besitzt die volle Zielverantwortlichkeit. [^4]
+Die Mitarbeiter pendeln während ihrer Arbeitszeit zwischen Tagesgeschäft und Projekt. [^4] Dabei sind sie während der Zeitspanne des Projekts in ihrer jeweiligen Linienorganisation integriert. Dadurch unterstehen sie ihrem Linienvorgesetzten und gleichzeitig dem Projektmanager. [^3]
 
-![Beispielabbildung](Matrix_Projektorganisation/test-file.jpg)
+# Arten
 
-*lustiges Testbild*
+Der PMBOK Guide benutzt dIe Begriffe "Schwache Matrixorganisation“, „Ausgewogene Matrixorganisation“ und  „Starke Matrixorganisation“, um den Bezug zu den anderen Erscheinungsformen der Matrixorganisation darzustellen. [^5] [^6] [^8]
+Er stellt die US-amerikanische Norm für Projektmanagement dar und wird vom Project Management Institute (PMI) herausgegeben. [^7]
 
-# Aspekt 2
+Schwache Matrixorganisation:
+Der Projektleiter übernimmt primär koordinierende Aufgaben, ohne direkten Einfluss oder Befugnisse. [^3]  Die Projektorganisation untersteht ganz und gar der Linienorganisation. 
+Im deutschen Sprachraum benutzt man hierfür den Begriff "Einfluss-Projektorganisation". [^5]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Aufgewogene Matrixorganisation :
+Der Projektleiter besitzt nach Absprache mit dem jeweiligen Linienvorgesetzten über Weisungs- und Zugriffsbefugnisse. [^3]  Die Projektorganisation und die Linienorganisation können gleichrangig die Ressourcen nutzen. Im  deutschen Sprachraum verwendet man hierfür das Konzept der Stabs-Projektorganisation. Die Charakteristiken der Stabs-Projektorganisation kann der schwachen und ebenso der starken Matrixprojektorganisation entsprechen. [^6]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Starke Matrixorganisation:
+Der Projektleiter hat direkte Autorität und Zugangsberechtigung auf allen Mitarbeitern und Ressourcen. [^3]  Die Projektorganisation besitzt unbegrenzte Zugangsmöglichkeiten auf die Ressourcen der Linienorganisation. Im deutschen Sprachraum wendet man hierfür den Begriff „Matrixorganisation“. Sie stellt Eigenschaften der reinen Projektorganisation dar, da die Projekte ein wesentlicher Bestandteil der Trägerorganisation als auch der Wertschöpfung sind. [^8]
 
-So kann man eine Tabelle erstellen:
+# Einsatzgebiete 
+
+Die Matrix Projektorganisation existiert meistens in wichtigen und terminkritischen Projekten bei mittelgroßen bis großen Unternehmen. [^1] Sie ist regelmäßig in großen Unternehmen aufzufinden, die international handeln und sich in mehreren Bereichen spezialisiert haben um wettbewerbsfähig zu bleiben. Die Organisationsform ist stark angesehen bei projektorientierten Branchen wie dem Bauwesen oder der Fahrzeugentwicklung. Allerdings findet sie wenig Gebrauch in der Massenproduktionen oder in der Verwaltung. [^9]
+
+
+# Vor- und Nachteile 
+
 
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+| Vorteile                                                                          | Nachteile
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Keine Wiedereingliederung der Mitarbeiter nach Projektende notwendig. [^1]        | Widersprüche zwischen Projekt- und Abteilungsleitung [^1]           |
+|                                                                                   |                                                                     |
+| Mitarbeiter ziehen Nutzen vom Wissen und dem Austausch ihrer Fachabteilungen [^1] | Probleme bei der Gewichtung zwischen Linien- und Projektarbeit [^1] |
+|                                                                                   |                                                                     |
+| flexible Zugangsmöglichkeiten auf Ressourcen [^1]                                 | hohe Überlastungen [^4]                                             |
+|                                                                                   |                                                                     |
+| kein Inselwissen der einzelnen Organisationseinheiten [^4]                        | hoher Anspruch an die Kommunikationsfähigkeiten                     |
+|                                                                                   | des Projektleiters bzw. Projetzmanagers [^11]                       |
+|                                                                                   |                                                                     |
+| kürzere Kommunikationswege und  schnellere Abstimmungen [^9]                      | hohe Nachfrage nach Führungspersonal [^9]                           |
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -97,8 +77,25 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1] : [Projektorganisation: Diese Formen solltest du kennen] ( https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/projektorganisationsformen/)
+
+[^2] : [Matrixorganisation] (https://www.projektmagazin.de/glossarterm/matrixorganisation)
+
+[^3] : [Matrix Projektorganisation] (https://www.bwl-lexikon.de/wiki/matrix-projektorganisation/#was-ist-die-matrix-projektorganisation)
+
+[^4] : [Projektorganisation: Formen und Rollen] (https://www.factro.de/blog/projektorganisation/#matrix)
+[^5] : [Schwache Matrixorganisation] (https://www.projektmagazin.de/glossarterm/schwache-matrixorganisation)
+
+[^6] : [Ausgewogene Matrixorganisation] (https://www.projektmagazin.de/glossarterm/ausgewogene-matrixorganisation)
+
+[^7] : [PMBOK(R) Guide] (https://www.projektmagazin.de/glossarterm/pmbok-guide)
+
+[^8] : [Starke Matrixorganisation] (https://www.projektmagazin.de/glossarterm/starke-matrixorganisation) 
+
+[^9] : [Matrixorganisation] (https://studyflix.de/wirtschaft/matrixorganisation-1331) 
+
+[^10] : [DREI ZENTRALE PROJEKTORGANISATIONSFORMEN UND IHRE ANWENDUNG] (http://blog.bepartner.de/drei-projektorganisationsformen/)
+
+[^11] : [Die richtige Projektorganisation für Ihr Unternehmen] (https://drblaschka.de/projektorganisation/) 
+
 
