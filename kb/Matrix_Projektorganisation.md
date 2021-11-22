@@ -83,7 +83,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 4. ist 
 4. eine
 7. nummerierte liste
-   1. und hier eine Ebene tiefer
+   1. und hier eine Ebene tiefe
 
 
 # Siehe auch
