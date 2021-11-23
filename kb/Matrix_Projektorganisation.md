@@ -109,3 +109,4 @@ Wohlwender, A. (2014) Analyse der Wissenskommunikation in einer Matrixorganisati
 
 [^11]: [Die richtige Projektorganisation für Ihr Unternehmen] (https://drblaschka.de/projektorganisation/) 
 
+ 
