@@ -23,7 +23,7 @@ In den Schnittstellen befinden sich die einzelnen Projektteams bzw. spezifischen
 # Akteure
 
 ## Abteilungsleiter
-Der Abteilungsleiter beschäftigt sich mit dem disziplinarischen Weisungsrecht und dem fachliche Weisungsrecht für Linienaufgaben [^1]. Dadurch besitzt er die disziplinarische Befugnis über die Zuordnung und Aufgaben der Mitarbeiter [^4].
+Der Abteilungsleiter beschäftigt sich mit dem disziplinarischen Weisungsrecht und dem fachliche Weisungsrecht für Linienaufgaben [^1]. Dadurch besitzt er die disziplinarische Befugnis über die Zuordnung und Aufgaben der Mitarbeiter [^4]. 
 
 ## Projektleiter 
 Der Projektleiter verfügt über das fachliches Weisungsrecht, was die Projektinhalte betrifft [^10]. Dabei beansprucht er die Arbeitskraft der Teammitglieder in Abstimmung mit dem Abteilungsleiter und besitzt die volle Zielverantwortlichkeit [^4].
