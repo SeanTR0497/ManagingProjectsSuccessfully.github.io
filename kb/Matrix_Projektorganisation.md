@@ -96,7 +96,7 @@ Die Matrix Projektorganisation existiert meistens in wichtigen und zeitabhängig
 
 [^6]: [Ausgewogene Matrixorganisation] (https://www.projektmagazin.de/glossarterm/ausgewogene-matrixorganisation)
 
-[^7]: [PMBOK(R) Guide] (https://www.projektmagazin.de/glossarterm/pmbok-guide)
+[^7]: [PMBOK(R) Guide] (https://www.projektmagazin.de/glossarterm/pmbok-guide) 
 
 [^8]: [Starke Matrixorganisation] (https://www.projektmagazin.de/glossarterm/starke-matrixorganisation) 
 
