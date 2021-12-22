@@ -72,7 +72,7 @@ Die Matrix Projektorganisation existiert meistens in wichtigen und zeitabhängig
 [Projektleiter](Projektleiter.md)
  
 [Projektmitarbeiter](Projektmitarbeiter.md)
-
+ 
 [PMBOK Guide](PMBOK_Guide.md)
 
 
