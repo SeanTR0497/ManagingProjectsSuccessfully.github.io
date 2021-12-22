@@ -81,7 +81,7 @@ Die Matrix Projektorganisation existiert meistens in wichtigen und zeitabhängig
 [Beispielabbildung](https://www.bwl-lexikon.de/app/uploads/matrix-projektorganisation.png)
 
 [^1]: [Projektorganisation: Diese Formen solltest du kennen] ( https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/projektorganisationsformen/)
-
+ 
 [^2]: [Matrixorganisation] (https://www.projektmagazin.de/glossarterm/matrixorganisation)
 
 [^3]: [Matrix Projektorganisation] (https://www.bwl-lexikon.de/wiki/matrix-projektorganisation/#was-ist-die-matrix-projektorganisation)
