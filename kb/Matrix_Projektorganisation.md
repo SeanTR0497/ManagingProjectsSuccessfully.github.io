@@ -65,7 +65,7 @@ Die Matrix Projektorganisation existiert meistens in wichtigen und zeitabhängig
 * hoher Anspruch an die Kommunikationsfähigkeiten des Projektleiters bzw. Projektmanagers [^11]
 * hohe Nachfrage nach Führungspersonal [^10]
 
-# 6. Verlinkungen 
+# 6. Verlinkungen  
 
 [Projektteam](Projektteam_Kultur.md)
  
