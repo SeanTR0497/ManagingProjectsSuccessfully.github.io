@@ -92,3 +92,4 @@ Die Matrix Projektorganisation existiert meistens in wichtigen und zeitabhängig
 [^10]: [DREI ZENTRALE PROJEKTORGANISATIONSFORMEN UND IHRE ANWENDUNG] (http://blog.bepartner.de/drei-projektorganisationsformen/)
 [^11]: [Die richtige Projektorganisation für Ihr Unternehmen] (https://drblaschka.de/projektorganisation/) 
 
+ 
